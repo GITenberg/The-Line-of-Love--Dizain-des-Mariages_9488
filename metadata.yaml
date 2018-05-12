@@ -1,5 +1,5 @@
 _repo: The-Line-of-Love--Dizain-des-Mariages_9488
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   author_of_introduction:
     agent_name: Mencken, H. L. (Henry Louis)
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '578'
     url: http://www.gutenberg.org/2009/agents/578
     wikipedia: http://en.wikipedia.org/wiki/H._L._Mencken
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Cabell, James Branch
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/166
     wikipedia: http://en.wikipedia.org/wiki/James_Branch_Cabell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9488#The-Line-of-Love--Dizain-des-Mariages
 gutenberg_bookshelf: Fantasy
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
